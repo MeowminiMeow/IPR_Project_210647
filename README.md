@@ -85,8 +85,7 @@ python ./train.py
 Using the code in the **IPR_Project_1.ipynb** to get the graph needed to compare with the original paper. 
 
 In paper uses valid session scores to measure the result of the model. 
-We have achieved a weighted accuracy of **0.7192332746081762** compared to that of the paper of **0.723** and when compared to unweighted accuracy , we have achieved **0.7313218642765257
-** compared to that of the paper of **0.739**. Thus our error is less than **1%** of the actual results. 
+We have achieved a weighted accuracy of **0.7192332746081762** compared to that of the paper of **0.723** and when compared to unweighted accuracy , we have achieved **0.7313218642765257** compared to that of the paper of **0.739**. Thus our error is less than **1%** of the actual results. 
  
 
 
